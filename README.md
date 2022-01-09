@@ -1,3 +1,12 @@
-### Hi there 👋
+### Hi, my nickname is Anchous and I am learning to program.
 
-**Programmer-Anchous/Programmer-Anchous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Education 🎓
+- **schoolboy**
+
+### Skills 🛠️
+- **Languages**:        Python
+
+
+### Certifications 📜
+- [Python for beginners](https://stepik.org/course/58852/syllabus) @ Stepik
