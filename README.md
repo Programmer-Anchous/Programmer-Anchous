@@ -5,12 +5,12 @@
 
 ### Education 🎓
 - **study at school**
-- **study at [Yandex Academy Lyceum](https://academy.yandex.ru/lyceum/) (first course)**
+- **study at [Yandex Academy Lyceum](https://academy.yandex.ru/lyceum/)** (first course)
 
 ### Skills 🛠️
 - **Languages**: Python
-  - **modules**: **tkinter**
+  - **modules**: tkinter
 
 
 ### Certifications 📜
-- [Python for beginners](https://stepik.org/course/58852/syllabus) @ Stepik
+- **[Python for beginners](https://stepik.org/course/58852/syllabus)** @ Stepik
