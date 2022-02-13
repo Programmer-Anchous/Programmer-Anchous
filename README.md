@@ -9,8 +9,9 @@
 - **study at [Yandex Academy Lyceum](https://academy.yandex.ru/lyceum/)** (first course)
 
 ### Skills 🛠️
-- **Languages**: Python
-  - **modules**: tkinter
+- **Languages**: 
+  - **Python**
+    - **modules**: Tkinter, Pygame
 
 
 ### Certifications 📜
