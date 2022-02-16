@@ -6,7 +6,6 @@
 
 ### Education 🎓
 - **study at school**
-- **study at [Yandex Academy Lyceum](https://academy.yandex.ru/lyceum/)** (first course)
 
 ### Skills 🛠️
 - **Languages**: 
