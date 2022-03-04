@@ -11,7 +11,3 @@
 - **Languages**: 
   - **Python**
     - **modules**: Tkinter, Pygame
-
-
-### Certifications 📜
-- **[Python for beginners](https://stepik.org/certificate/64c10018eb28b25b9d3967d0aaa8ebb781040ddb.pdf)** @ Stepik
