@@ -7,4 +7,3 @@
 ### Skills 🛠️
 - **Languages**: 
   - **Python**
-    - **modules**: Tkinter, Pygame
