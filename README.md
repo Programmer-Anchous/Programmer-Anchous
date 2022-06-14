@@ -4,5 +4,5 @@
 ### Hi, my nickname is Anchous and I am learning to program.
 
 
-### Skills 🛠️
+### Skills
 - **Python** 
