@@ -3,7 +3,7 @@
 
 <h3 align="center">Languages</h3>
 
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=python">
 
 <h3 align="center">Me in CodeWars</h3>
 <p align="center">
