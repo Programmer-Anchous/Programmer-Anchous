@@ -11,5 +11,7 @@
          <img src="https://www.codewars.com/users/Anchous/badges/large">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Programmer-Anchous&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Anchous&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact">
+<h3 align="center">Stats</h3>
+
+<img src="https://github.com/Programmer-Anchous/github-stats-transparent/blob/output/generated/overview.svg">
+<img src="https://github.com/Programmer-Anchous/github-stats-transparent/blob/output/generated/languages.svg">
