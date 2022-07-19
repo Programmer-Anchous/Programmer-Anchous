@@ -1,9 +1,17 @@
-### Hi, my nickname is Anchous and I am learning to program.
 
+<h3>Hi, my nickname is Anchous and I am learning to program.</h3>
 
-### Skills
-- **Python** 
+<h3>Skills</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Programmer-Anchous&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact)
+<ul>
+  <li><strong>Python</strong></li>
+</ul>
 
-[![](https://www.codewars.com/users/Anchous/badges/large)](https://www.codewars.com/users/Anchous)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-Anchous&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&layout=compact">
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Anchous">
+         <img src="https://www.codewars.com/users/Anchous/badges/large">
+</p>
