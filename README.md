@@ -7,7 +7,7 @@
 
 <h3 align="center">Me in CodeWars</h3>
 <p align="center">
-  <a href="https://www.codewars.com/users/Anchous">
+  <a href="https://www.codewars.com/users/Anchous" target="_blank">
          <img src="https://www.codewars.com/users/Anchous/badges/large">
 </p>
 
