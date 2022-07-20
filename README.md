@@ -1,19 +1,19 @@
 
 <h3 align="center">Hi, my nickname is Anchous and I am learning to program.</h3>
 
-<h3 align="center">What do I know</h3>
+<h3 align="center">What I know</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=545454&style=plastic&logo=python"/>
+  <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python"/>
 </p>
 
-<h3 align="center">What do I learn now</h3>
+<h3 align="center">What I'm learning now</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=545454&style=plastic&logo=html5"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=545454&style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=545454&style=plastic&logo=javascript"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=545454&style=plastic&logo=python"/>
+  <img src="https://img.shields.io/badge/-C++-202020?style=for-the-badge&logo=C%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-202020?style=for-the-badge&logo=CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript"/>
 </p>
 
 <h3 align="center">Me in CodeWars</h3>
