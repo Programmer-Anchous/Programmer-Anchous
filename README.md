@@ -24,6 +24,6 @@
 
 <h3 align="center">Stats</h3>
 <p align="center">
-  <img src="https://github.com/Programmer-Anchous/github-stats-transparent/blob/output/generated/overview.svg">
-  <img src="https://github.com/Programmer-Anchous/github-stats-transparent/blob/output/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/Programmer-Anchous/github-stats-transparent/output/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/Programmer-Anchous/github-stats-transparent/output/generated/languages.svg">
 </p>
