@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python"/>
 </p>
 
-<h3 align="center">What I'm learning now</h3>
-
 <h3 align="center">Me in CodeWars</h3>
 <p align="center">
   <a href="https://www.codewars.com/users/Anchous" target="_blank">
