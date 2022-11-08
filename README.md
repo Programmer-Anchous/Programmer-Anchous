@@ -1,17 +1,17 @@
 
-<h3 align="center">Hi, my nickname is Anchous and I am learning to program.</h3>
+<h3 align="center">Hi, my nickname is Anchous, I love programming and <a href="https://www.google.com/search?client=firefox-b-lm&q=stronghold">Stronghold</a>.</h3>
 
-<h3 align="center">What I know</h3>
+<h3 align="center">Skills</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python"/>
-</p>
+<h4 align="center">Languages: Python</h4>
+<br>
 
 <h3 align="center">Me in CodeWars</h3>
 <p align="center">
   <a href="https://www.codewars.com/users/Anchous" target="_blank">
   <img src="https://www.codewars.com/users/Anchous/badges/large">
 </p>
+<br>
 
 <h3 align="center">Stats</h3>
 <p align="center">
