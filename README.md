@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi, my nickname is Anchous, I love programming and <a href="https://www.google.com/search?client=firefox-b-lm&q=stronghold">Stronghold</a>.</h3>
+<h3 align="center">Hi, my nickname is Anchous, I love programming and Stronghold.</h3>
 
 <h3 align="center">Skills</h3>
 
