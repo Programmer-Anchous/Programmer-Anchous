@@ -15,8 +15,11 @@
 <br>
 
 ### Me in CodeWars
-![Codewars stats](https://www.codewars.com/users/Anchous/badges/large)
-
+<p>
+  <a href="https://www.codewars.com/users/Anchous" target="_blank">
+  <img src="https://www.codewars.com/users/Anchous/badges/large">
+</p>
+    
 <br>
 
 ![Stats Overview](https://raw.githubusercontent.com/Programmer-Anchous/github-stats-transparent/output/generated/overview.svg)
