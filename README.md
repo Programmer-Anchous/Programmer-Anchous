@@ -1,5 +1,6 @@
-![header]()
+![header](https://github.com/Programmer-Anchous/Programmer-Anchous/blob/main/images/programmer_header.jpg?raw=true)
 
+-----
 
 ## Hi, my nickname is Anchous, I love programming and Stronghold.
 
