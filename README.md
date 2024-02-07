@@ -9,7 +9,9 @@
     - Gamedev/Graphics
         - Pygame
     - GUI
-        - PyQt5, Tkinter
+        - PyQt5
+    - Bots
+        - Python-telegram-bot
 
 <br>
 
