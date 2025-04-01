@@ -15,5 +15,5 @@
 
 <br>
 
-![Stats Overview](https://github.com/Programmer-Anchous/github-stats/blob/master/generated/overview.svg)
-![Most Used Languages](https://github.com/Programmer-Anchous/github-stats/blob/master/generated/languages.svg)
+![Stats Overview](https://github.com/Programmer-Anchous/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://github.com/Programmer-Anchous/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
